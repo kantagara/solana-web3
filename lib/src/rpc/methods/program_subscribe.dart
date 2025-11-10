@@ -2,7 +2,7 @@
 /// ------------------------------------------------------------------------------------------------
 
 import 'package:solana_jsonrpc/types.dart' show SubscriptionId;
-import 'package:solana_web3/src/crypto/pubkey.dart';
+import 'package:solana_web3_latest/src/crypto/pubkey.dart';
 import '../configs/program_subscribe_config.dart';
 import '../interfaces/json_rpc_type_method.dart';
 

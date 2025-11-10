@@ -11,6 +11,9 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
+THIS PACKAGE IS JUST A FORK WITH ALL DEPENDENCY ISSUES FIXED FROM THE PARENT REPO.
+Big credits go to quetool for dep fixes and merigolabs.com for the original package.
+
 ### Dart implementation of Solana's [JSON RPC API](https://docs.solana.com/developing/clients/jsonrpc-api).
 
 <em>Android and iOS support.</em>

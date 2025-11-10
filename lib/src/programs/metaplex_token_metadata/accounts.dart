@@ -7,7 +7,7 @@ import 'package:solana_borsh/borsh.dart';
 import 'package:solana_borsh/codecs.dart';
 import 'package:solana_borsh/models.dart';
 import 'package:solana_borsh/types.dart';
-import 'package:solana_web3/programs.dart';
+import 'package:solana_web3_latest/programs.dart';
 
 import '../../rpc/models/account_info.dart';
 

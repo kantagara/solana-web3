@@ -5,8 +5,8 @@ import 'dart:convert';
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:solana_web3/solana_web3.dart';
-import 'package:solana_web3/programs.dart' show SystemProgram;
+import 'package:solana_web3_latest/solana_web3.dart';
+import 'package:solana_web3_latest/programs.dart' show SystemProgram;
 
 
 /// Tests

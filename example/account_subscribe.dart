@@ -1,6 +1,6 @@
-/// Imports
-import 'dart:async';
-import 'package:solana_web3/solana_web3.dart' as web3;
+  /// Imports
+  import 'dart:async';
+  import 'package:solana_web3_latest/solana_web3.dart' as web3;
 
 /// Subscribe to an account and receive notifications when it changes.
 Future<void> accountSubscribe() async {

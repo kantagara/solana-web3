@@ -1,7 +1,7 @@
 /// Imports
 /// ------------------------------------------------------------------------------------------------
 
-import 'package:solana_web3/src/crypto/pubkey.dart';
+import 'package:solana_web3_latest/src/crypto/pubkey.dart';
 import '../configs/get_program_accounts_config.dart';
 import '../interfaces/json_rpc_list_method.dart';
 import '../models/program_account.dart';

@@ -1,8 +1,8 @@
 /// Imports
-import 'package:solana_web3/solana_web3.dart' as web3;
-import 'package:solana_web3/programs.dart' show SystemProgram;
-import 'package:solana_web3/src/encodings/lamports.dart';
-import 'package:solana_web3/src/rpc/models/blockhash_with_expiry_block_height.dart';
+import 'package:solana_web3_latest/solana_web3.dart' as web3;
+import 'package:solana_web3_latest/programs.dart' show SystemProgram;
+import 'package:solana_web3_latest/src/encodings/lamports.dart';
+import 'package:solana_web3_latest/src/rpc/models/blockhash_with_expiry_block_height.dart';
 
 /// Transfer tokens from one wallet to another.
 void main(final List<String> _arguments) async {

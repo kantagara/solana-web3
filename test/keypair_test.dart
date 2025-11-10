@@ -4,10 +4,9 @@
 import 'dart:convert' show utf8;
 import 'dart:typed_data';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:solana_common/convert.dart';
-import 'package:solana_web3/src/crypto/keypair.dart';
-import 'package:solana_web3/src/rpc/models/program_address.dart';
-import 'package:solana_web3/src/crypto/pubkey.dart';
+import 'package:solana_web3_latest/src/crypto/keypair.dart';
+import 'package:solana_web3_latest/src/rpc/models/program_address.dart';
+import 'package:solana_web3_latest/src/crypto/pubkey.dart';
 
 
 /// Keypair Tests

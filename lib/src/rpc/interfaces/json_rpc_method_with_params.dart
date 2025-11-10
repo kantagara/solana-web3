@@ -3,7 +3,7 @@
 
 import 'package:solana_common/models.dart';
 import 'package:solana_jsonrpc/jsonrpc.dart' show JsonRpcMethod;
-import 'package:solana_web3/src/rpc/interfaces/json_rpc_params_mixin.dart';
+import 'package:solana_web3_latest/src/rpc/interfaces/json_rpc_params_mixin.dart';
 
 
 /// JSON RPC Method with Params Mixin

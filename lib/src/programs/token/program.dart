@@ -4,7 +4,7 @@
 import 'package:solana_borsh/borsh.dart';
 import 'package:solana_common/types.dart';
 import 'package:solana_common/validators.dart';
-import 'package:solana_web3/src/programs/token/state.dart';
+import 'package:solana_web3_latest/src/programs/token/state.dart';
 import '../../constants/sysvar.dart';
 import '../../crypto/pubkey.dart';
 import '../../transactions/account_meta.dart';

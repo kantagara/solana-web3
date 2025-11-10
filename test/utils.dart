@@ -3,7 +3,7 @@
 
 import 'package:pinenacl/ed25519.dart';
 import 'package:solana_buffer/buffer.dart';
-import 'package:solana_web3/src/crypto/keypair.dart';
+import 'package:solana_web3_latest/src/crypto/keypair.dart';
 
 
 /// Test Utilities

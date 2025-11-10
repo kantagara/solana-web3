@@ -1,3 +1,7 @@
+## 0.1.4
+
+* Fixing dependencies issues with the newest version of the compiler
+
 ## 0.1.3
 
 * Fix Transaction error data type.

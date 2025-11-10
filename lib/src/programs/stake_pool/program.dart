@@ -6,7 +6,7 @@ import 'package:solana_borsh/borsh.dart';
 import 'package:solana_borsh/codecs.dart';
 import 'package:solana_buffer/extensions.dart';
 import 'package:solana_common/types.dart';
-import 'package:solana_web3/programs.dart';
+import 'package:solana_web3_latest/programs.dart';
 import '../../encodings/lamports.dart';
 import '../../constants/sysvar.dart';
 import '../../crypto/pubkey.dart';

@@ -2,7 +2,7 @@
 /// ------------------------------------------------------------------------------------------------
 
 import 'package:solana_jsonrpc/types.dart' show SubscriptionId;
-import 'package:solana_web3/src/rpc/models/logs_filter.dart';
+import 'package:solana_web3_latest/src/rpc/models/logs_filter.dart';
 import '../configs/logs_subscribe_config.dart';
 import '../interfaces/json_rpc_type_method.dart';
 

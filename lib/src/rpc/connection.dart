@@ -4,7 +4,7 @@
 import 'dart:async' show TimeoutException;
 import 'dart:typed_data' show Uint8List;
 import 'package:solana_common/async.dart';
-import 'package:solana_web3/solana_web3.dart';
+import 'package:solana_web3_latest/solana_web3.dart';
 import '../programs/address_lookup_table/state.dart';
 import '../programs/metaplex_token_metadata/program.dart';
 import '../rpc/configs/get_address_lookup_table_config.dart';

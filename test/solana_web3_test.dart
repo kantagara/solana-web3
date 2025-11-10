@@ -2,8 +2,8 @@
 /// ------------------------------------------------------------------------------------------------
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:solana_web3/solana_web3.dart';
-import 'package:solana_web3/src/encodings/lamports.dart';
+import 'package:solana_web3_latest/solana_web3.dart';
+import 'package:solana_web3_latest/src/encodings/lamports.dart';
 
 
 /// Buffer Layout Tests
