@@ -2,7 +2,7 @@ name: solana_web3_latest
 description: Solana web3 dart library based of the mergio-labs solana-web3 package but with latest depedency fixes.
 repository: https://github.com/merigo-labs/solana-web3
 issue_tracker: https://github.com/merigo-labs/solana-web3/issues/new/choose
-version: 0.1.3
+version: 0.1.4
 
 environment:
   sdk: '>=3.0.3 <4.0.0'
