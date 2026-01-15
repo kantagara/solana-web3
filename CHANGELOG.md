@@ -1,3 +1,7 @@
+## 0.1.5
+
+* Fixing the wrong type of the rent epoch variable
+
 ## 0.1.4
 
 * Fixing dependencies issues with the newest version of the compiler
